@@ -1,0 +1,8 @@
+.user{
+    padding: 30px 20px;
+    
+    .desc{
+        text-transform: uppercase;
+        font-weight: bold;
+    }
+}
